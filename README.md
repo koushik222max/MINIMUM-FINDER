@@ -43,7 +43,10 @@ Sometimes the story isn’t about the topper—it’s about the one who drags th
 
 ---
 
-⚡- Title = big, flashy, thriller-style
--⚡ Hook = grips the reader instantly
--⚡ Body = short & clear
--⚡ CTA = calls to action with a dark twist
+⚡ Title = big, flashy, thriller-style
+---
+⚡ Hook = grips the reader instantly
+---
+⚡ Body = short & clear
+---
+⚡ CTA = calls to action with a dark twist
